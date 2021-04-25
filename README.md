@@ -22,6 +22,22 @@ Since Starting at Old Mutual South Africa (Pty) Ltd, I have been learning a lot 
 
 <img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/Python_logo.svg" />
 <img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/SQL_Logo.jpg" />
+
+<br />
+
+#### IDE'S
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/visual-studio.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/cib-anaconda.svg" />
+<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/jupyter-seeklogo.com.svg" />
+
+<br />
+
+#### Web developemnt Frameworks
+
+<img align="left" alt="Django Community" width="64px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/django-community.svg" />
+<img align="left" alt="Flask Logo" width="36px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/flask-seeklogo.svg" />
+
 <!--
 **Simangele101/Simangele101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
