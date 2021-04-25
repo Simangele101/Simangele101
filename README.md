@@ -21,7 +21,7 @@ Since Starting at Old Mutual South Africa (Pty) Ltd, I have been learning a lot 
 #### Programming Languages
 
 <img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/Python_logo.svg" />
-<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/SQL Logo.png" />
+<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/SQL_Logo.png" />
 <!--
 **Simangele101/Simangele101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
