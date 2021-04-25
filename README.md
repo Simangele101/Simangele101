@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Simangele101/Simangele101/master/Simangele_Maphanga.png "Header")](https://github.com/Simangele101/)
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/wave.gif" width="40px">
 My Name is **Simangele Maphanga**,I am an aspiring Data scientist with a love data modelling,data exploration and data visualization and pipelining.With A Background in Human Resources,from Tshwane University of Technology, Pretoria, Gauteng, South Africa. I decided to upskill my HR skillset with data science and data analytics.I am Currently Undergoing Data science training at [Explore Data Science Academy](https://explore-datascience.net/) and have Startd my Data science Internship with Old Mutual SA (Pty) Ltd. You can find me on [LinkedIn](https://www.linkedin.com/in/simangele-maphanga/)
 
 ## 🔭 I’m currently working on HR analytics attrition project
@@ -18,7 +18,10 @@ Since Starting at Old Mutual South Africa (Pty) Ltd, I have been learning a lot 
 
 ## 🔧 Technologies & Tools
 
+#### Programming Languages
 
+<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/Python_logo.svg" />
+<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/SQL Logo.png" />
 <!--
 **Simangele101/Simangele101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
