@@ -38,6 +38,44 @@ Since Starting at Old Mutual South Africa (Pty) Ltd, I have been learning a lot 
 <img align="left" alt="Django Community" width="64px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/django-community.svg" />
 <img align="left" alt="Flask Logo" width="36px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/flask-seeklogo.svg" />
 
+<br/><br/>
+
+#### Data Science Tools
+
+<img align="left" alt="Pandas Logo" width="96px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/pandas.png" />
+<img align="left" alt="Numpy Logo" width="96px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/NumPy_logo.svg" />
+<img align="left" alt="Scipy Logo" width="96px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/scipy.png" />
+<img align="left" alt="Scikit-learn Logo" width="96px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/sklearn.png" />
+<img align="left" alt="Streamlit Logo" width="96px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/streamlit.png" />
+<img align="left" alt="Matplotlib Logo" width="96px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/matplotlib.svg" />
+<img align="left" alt="Seaborn Logo" width="64px" src="https://raw.githubusercontent.com/Simangele101/Simangele101/master/seaborn.png" />
+
+<br/><br/>
+
+#### Database Tools
+
+<img align="left" alt="SQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<br /><br/>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/CharlesMaponya/Simangele101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simangele101&title_color=ffffff&text_color=c9cacc&hide=javascript&icon_color=0037c3&bg_color=04001E" />
+</a>
+<a href="https://github.com/Simangele101/Simangele101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Simangele101&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0037c3&bg_color=04001E" alt="Simangele's GitHub Stats" />
+</a>
+<br/><br/>
+
+---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+
+
 <!--
 **Simangele101/Simangele101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
