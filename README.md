@@ -69,13 +69,6 @@ Since Starting at Old Mutual South Africa (Pty) Ltd, I have been learning a lot 
 </a>
 <br/><br/>
 
----
- 
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
-
-
 <!--
 **Simangele101/Simangele101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
